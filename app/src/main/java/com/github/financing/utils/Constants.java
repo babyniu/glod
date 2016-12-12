@@ -2,6 +2,7 @@ package com.github.financing.utils;
 
 public class Constants {
 
+    public static final String APP_BASE_URL = "http://www.thjcf.com.cn/MI/Common";
     //手机服务端基本地址
     public static final String APP_SERVER_BASE_URL = "http://192.168.1.22";
     // 版本检查
@@ -31,4 +32,9 @@ public class Constants {
     public static final String JZH_API_APP_SIGN_URL = JZH_API_BASE_URL+"/app/appSign_Card.action";
 
     public static final String trustStoreFileName = "server.cer";
+
+
+
+    public static final String MOBILEPHONE = "mobliePhone";
+    public static final String VALIDCODE = "validCode";
 }
