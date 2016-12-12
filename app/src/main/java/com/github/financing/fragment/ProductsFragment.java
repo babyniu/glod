@@ -116,6 +116,8 @@ public class ProductsFragment extends BaseFragment {
         Log.i("ProductsFragment","------orderAdapter-----"+orderAdapter.hashCode());
         Log.i("ProductsFragment","------typeAdapter-----"+typeAdapter.hashCode());
         Log.i("ProductsFragment","--product:checkMenu结束--");
+
+
     }
 
 
